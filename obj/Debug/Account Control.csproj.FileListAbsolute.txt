@@ -1,0 +1,15 @@
+C:\Users\AÉCIO\Desktop\Account Control\bin\Debug\Account Control.exe.config
+C:\Users\AÉCIO\Desktop\Account Control\bin\Debug\Account Control.exe
+C:\Users\AÉCIO\Desktop\Account Control\bin\Debug\Account Control.pdb
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account Control.csprojResolveAssemblyReference.cache
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account_Control.FORMS.Principal.resources
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account_Control.Properties.Resources.resources
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account Control.csproj.GenerateResource.Cache
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account Control.exe
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account Control.pdb
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account_Control.FORMS.Pesquisar.resources
+C:\Users\AÉCIO\Desktop\Account Control\bin\Debug\MySql.Data.dll
+C:\Users\AÉCIO\Desktop\Account Control\bin\Debug\MySql.Data.xml
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account_Control.FORMS.CadConta.resources
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account_Control.FORMS.Administrador.resources
+C:\Users\AÉCIO\Desktop\Account Control\obj\Debug\Account_Control.FORMS.Empresa.resources
